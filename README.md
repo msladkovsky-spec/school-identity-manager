@@ -1,0 +1,1 @@
+# school-identity-manager
